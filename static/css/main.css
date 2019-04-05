@@ -31,7 +31,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #3fa757;
+  color: #077a8e;
 }
 a:hover {
   color: #B3B3B3;
@@ -48,6 +48,7 @@ a:hover {
 }
 .sidebar-nav li {
   margin: 0;
+  font-size: 15px;
   list-style: none;
 }
 .sidebar-nav li::before {

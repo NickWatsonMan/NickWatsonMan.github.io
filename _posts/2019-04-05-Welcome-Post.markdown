@@ -6,6 +6,9 @@ categories: Blog
 ---
 Hello, this letter is to set the mission of this blog and key ideas.
 
-{{page.title}}
-
 <h1>Mission</h1>
+Build the ultimate collection of posts about:
+- Culture
+- Hobby
+- Traveling
+- Other things that are important

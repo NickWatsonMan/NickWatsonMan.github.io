@@ -116,7 +116,7 @@ layout: compress
     <div class="container">
       <div class="col-sm-3">
         <div class="fixed-condition">
-          <h1 class="author-name">{{ site.author }}</h1>
+          <h1 class="author-name"><a href="/">{{ site.author }}</a></h1>
           {% if site.about %}
             <div class="profile-about">
               {{ site.about }}
@@ -140,10 +140,6 @@ layout: compress
           {% if site.github %}
             - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
           {% endif %}
-          <div class="btn-github" style="float:right;">
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
-          </div>
         </footer>
       </div>
       <!-- end /.col-sm-8 -->

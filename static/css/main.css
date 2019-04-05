@@ -40,6 +40,8 @@ a:hover {
 
 /* Layout */
 .main-layout {
+  margin-top: 40px;
+  margin-left: 40px;
   background: #fff;
 }
 .sidebar-nav {
@@ -95,6 +97,8 @@ div.col-sm-3 strong {
 }
 div.col-sm-3 div.profile-about {
   margin-top: 10px;
+  text-align: justify;
+  font-size: 15px;
   color: #8C8C8C;
 }
 div.col-sm-3 img.profile-avatar {

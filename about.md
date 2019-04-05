@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Here willl be the Mission of the blog and its general ideas.
 
-email: agus[at]python.web.id
+email: nickwatsonman@yahoo.com
